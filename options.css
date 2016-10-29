@@ -1,0 +1,30 @@
+body section {
+	-webkit-padding-start: 18px;
+	margin-bottom: 24px;
+	margin-top: 8px;
+}
+body section > h3 {
+	-webkit-margin-start: -18px;
+}
+body a {
+	text-decoration: none;
+}
+body a:hover {
+	text-decoration: underline;
+}
+body header {
+	border-bottom: 1px solid #eee;
+}
+body footer {
+	border-top: 1px solid #eee;
+	margin-top: 16px;
+	padding: 8px 0;
+}
+.advanced-options-hidden {
+	display: none;
+	visibility: hidden;
+}
+.maxAge-container-hidden {
+	display: none;
+	visibility: hidden;
+}
